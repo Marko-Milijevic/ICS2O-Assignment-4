@@ -12,14 +12,14 @@ body {
   background-color: rgb(236, 241, 243);
 }
 
-/*Styling for the images */
+/* Styling for the images */
 #picture {
   width: 10%;
   float: left;
   padding: 10px;
 }
 
-/*Styling for the footer */
+/* Styling for the footer */
 .footer {
   background-color: rgb(187, 207, 216);
   padding: 20px;
